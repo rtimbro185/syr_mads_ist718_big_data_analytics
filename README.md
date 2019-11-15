@@ -1,9 +1,13 @@
-# syr_mads_ist718_big_data_analytics
-Syracuse University, Masters of Applied Data Science - IST 718 Big Data Analytics
+## Ryan Timbrook (Graduate Student - Course Work Repository)
 
-2017 - 2020
+## [Syracuse University, Masters of Applied Data Science](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
 
-COURSE SYLLABUS  IST 718 BIG DATA ANALYTICS 
+### IST 718 BIG DATA ANALYTICS - Summar 2019
+### SYLLABUS
+
+                                   **SYRACUSE UNIVERSITY School of Information Studies**
+                                           **IST - 718 BIG DATA ANALYTICS**     
+
 
 Prerequisite / Co-requisite:  IST 687:  Introduction to Data Science - additional course description below. 
  
@@ -40,3 +44,5 @@ Assignment #4: Group Discussions The weekly group discussion provides an opportu
 Course Schedule:
 
 ![Schedule](./images/schedule.png)
+
+[SYRACUSE UNIVERSITY School of Information Studies](https://ischool.syr.edu/)
